@@ -1,0 +1,2 @@
+# background.jpg
+para imagen
